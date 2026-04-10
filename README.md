@@ -1,1 +1,1 @@
-# HA-Home-Kit
+# HA-HomeKit
