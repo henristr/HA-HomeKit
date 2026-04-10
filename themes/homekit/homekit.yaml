@@ -1,0 +1,9 @@
+HomeKit:
+  ha-card-box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.16)
+  ha-card-border-width: 0
+  ha-card-border-radius: 20px
+  ha-card-background: rgba(255,255,255,0.7)
+  lovelace-background: "center / cover no-repeat fixed url('https://raw.githubusercontent.com/henristr/HA-HomeKit/56d3300c00b5afd7ee5d1dd76e4d167d8f9f1562/themes/background/background.jpg')"
+  modes:
+    light: {}
+    dark: {}
